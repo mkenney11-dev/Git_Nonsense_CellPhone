@@ -1,4 +1,5 @@
 public class HomeScreen {
+
     //navigate to home screen
     //apps on home screen
     //settings on home screen
